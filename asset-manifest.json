@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Bezel-Joseph/React-Demo-Projects.git/static/js/main.2a976a5a.chunk.js",
+    "main.js.map": "/Bezel-Joseph/React-Demo-Projects.git/static/js/main.2a976a5a.chunk.js.map",
+    "runtime-main.js": "/Bezel-Joseph/React-Demo-Projects.git/static/js/runtime-main.abb977d7.js",
+    "runtime-main.js.map": "/Bezel-Joseph/React-Demo-Projects.git/static/js/runtime-main.abb977d7.js.map",
+    "static/js/2.01b91f0a.chunk.js": "/Bezel-Joseph/React-Demo-Projects.git/static/js/2.01b91f0a.chunk.js",
+    "static/js/2.01b91f0a.chunk.js.map": "/Bezel-Joseph/React-Demo-Projects.git/static/js/2.01b91f0a.chunk.js.map",
+    "index.html": "/Bezel-Joseph/React-Demo-Projects.git/index.html",
+    "precache-manifest.fbd828b1685c1f703a100912c67f43c8.js": "/Bezel-Joseph/React-Demo-Projects.git/precache-manifest.fbd828b1685c1f703a100912c67f43c8.js",
+    "service-worker.js": "/Bezel-Joseph/React-Demo-Projects.git/service-worker.js",
+    "static/js/2.01b91f0a.chunk.js.LICENSE.txt": "/Bezel-Joseph/React-Demo-Projects.git/static/js/2.01b91f0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abb977d7.js",
+    "static/js/2.01b91f0a.chunk.js",
+    "static/js/main.2a976a5a.chunk.js"
+  ]
+}
